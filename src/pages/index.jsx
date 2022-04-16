@@ -1,0 +1,23 @@
+export { default as Home } from "./Home";
+export { default as Login } from "./Login/Login";
+export { default as ForgotPassword } from "./Login/Forgot";
+export { default as SetPassWord } from "./Login/SetPassWord";
+export { default as Register } from "./Register/Register";
+export { default as UserPannel } from "./user-panel/UserPannel";
+export { default as Dashboard } from "./Dashboard/Dashboard";
+export { default as UserMessages } from "./UserMessages/UserMessages";
+export { default as StudyTimeList } from "./users/study-time/StudyTimeList";
+export { default as MYVacation } from "./users/my-vacation/MYVacation";
+export { default as Vacation } from "./vacation/vacation";
+export { default as VacationDetails } from "./vacation/VacationDetails";
+export { default as UserList } from "./users/user-list/UserList";
+export { default as Document } from "./document/Document";
+export { default as GetRulesList } from "./rules/rulesList/getRulesList";
+export { default as Drives } from "./Drives/Drives";
+export { default as Tickets } from "./Tickets/Tickets";
+export { default as ShowTicket } from "./Tickets/ShowTicket";
+export { default as Config } from "./config/config";
+export { default as EvaluateConfig } from "./config/evaluate/EvaluateConfig";
+export { default as LeaveConfig } from "./config/leaves/LeaveConfig";
+export { default as ContentPlaceMent } from "./content/ContentPlaceMent";
+

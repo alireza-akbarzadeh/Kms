@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Yekan';
+    src: url('../fonts/Fa/YekanBakhFa05Medium.ttf') format('truetype'),
+    url('../fonts/Fa/YekanBakhFa05Medium.woff') format('woff2'),
+    url('../fonts/Fa/YekanBakhFaMedium.eot') format('eot'),
+    url('../fonts/Fa-En/Yeka_ Bakh_2 .eot') format('eot'),
+    url('../fonts/Fa-En/Yeka_ Bakh_2 .ttf') format('truetype'),
+    url('../fonts/Fa-En/Yeka_ Bakh_2 .woff') format('woff'),
+    url('../fonts/FaNum/YekanBakhFaNumMedium.eot') format('eot'),
+    url('../fonts/FaNum/YekanBakhFaNumMedium.ttf') format('ttf'),
+    url('../fonts/FaNum/YekanBakhFaNumMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

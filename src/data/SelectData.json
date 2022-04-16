@@ -1,0 +1,24 @@
+{
+  "Select": [
+    {
+      "id": 1,
+      "labelFa": "همه",
+      "labelEn": "every one"
+    },
+    {
+      "id": 2,
+      "labelFa": "خودم",
+      "labelEn": "my Self"
+    },
+    {
+      "id": 3,
+      "labelFa": "تیم ها",
+      "labelEn": "Teams"
+    },
+    {
+      "id": 4,
+      "labelFa": "اعضای سازمان ها (به جز مهمان ها)",
+      "labelEn": "Member Of Organization (except Guests)"
+    }
+  ]
+}
